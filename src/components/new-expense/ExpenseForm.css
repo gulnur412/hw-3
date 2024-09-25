@@ -1,0 +1,33 @@
+.form { 
+    display: flex; 
+    gap: 20px; 
+  } 
+   
+  .form-second { 
+    width: 340px; 
+    height: 64px; 
+    top: 271px; 
+    left: 370px; 
+    gap: 0px; 
+    border-radius: 8px 0px 0px 0px; 
+    opacity: 0px; 
+    font-family: Inter; 
+    font-weight: 500; 
+    font-size: 14px; 
+  } 
+   
+  .form-two { 
+    width: 335px; 
+    height: 64px; 
+    top: 355px; 
+    left: 375px; 
+    gap: 0px; 
+    opacity: 0px; 
+    font-family: Inter; 
+    font-weight: 500; 
+    font-size: 14px; 
+  }
+
+
+
+
